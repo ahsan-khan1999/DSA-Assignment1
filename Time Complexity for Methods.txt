@@ -1,0 +1,8 @@
+adding an item in Linked-Lists vs. adding it in Sorted Linked-Lists.
+			O(1) vs. O(1)
+removing an item in Linked-Lists vs. removing it in Sorted Linked-Lists.
+			O(n) vs.  O(1)
+searching an item in Linked-Lists vs. searching it in Sorted Linked-Lists.
+			O(n) vs. O(n)
+searching an item in Sorted Singly Linked-Lists vs. searching it in SortedDoubly Linked-Lists.
+			O(n) vs.O(n^2);
